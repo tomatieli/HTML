@@ -1,0 +1,70 @@
+table { 
+	width: 100%;
+	font: 0.7em Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+	text-align: left;
+	border-collapse: collapse;
+	border: 1px solid #666666;
+	border-top: none;	
+}
+table a {
+	text-decoration: underline;
+}
+table a:visited {
+	text-decoration: none;
+}
+tr.odd {
+	background-color: #F7DAB8;
+}
+tr a {
+	color: #000000;
+}
+tr:hover a {
+	color: #ffffff;
+}
+tr:hover, tr.odd:hover {
+	background-color: #eb988a;
+	color: #ffffff;
+}
+caption {
+	height: 101px;
+	line-height: 44px;
+	color: #60634E;
+	font-weight: bold;
+	margin: 0px;
+	text-indent: -5000px;
+	text-align:left;
+	background: #FFFFFF url(../img/topoWalle.jpg) no-repeat center;
+	border-left: 1px solid #666666;
+	border-top: 1px solid #666666;
+	border-right: 1px solid #666666;
+	border-bottom: 0px;
+}
+thead th {
+	font-size: 105%;
+	color: #FFFFFF;
+	background-color: #ff0000;
+}
+thead th:hover {
+
+}
+tr {
+	vertical-align: top;
+}
+tr,th,td {
+	padding: .50em;
+}
+td {
+	border-left: 1px solid #dadada;
+	height: 25px;
+}
+tfoot tr {
+	background: #cd9b60;
+	border-top: 1px solid #000000;
+}
+tfoot td, tfoot th{
+	color: #FFFFFF;
+	height:38px;
+	border:0;
+	background: #ff0000;
+}
