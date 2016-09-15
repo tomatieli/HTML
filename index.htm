@@ -1,0 +1,323 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html dir="ltr" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.php">
+	<title>Tabelas em CSS</title>
+	<script type="text/javascript">
+		function trocaCSS(arquivoCSS) {
+			document.getElementById('arquivoCSS').href = arquivoCSS.value;
+		}
+	</script>
+	<link id="arquivoCSS" rel="stylesheet" href="js/seutrabalho.css" type="text/css" media="screen" />
+</head>
+<body id="home">
+<P>
+	<select name="tipocss" onchange="trocaCSS(this)">
+		<option value="js/seutrabalho.css" selected>Selecione uma opção</option>
+		<option value="js/supermario.css">Mario</option>
+		<option value="js/walle.css">Walle</option>
+	</select>
+</P>
+<div id="boundary">
+	<div id="itsthetable">
+		<table summary="Projetos Cadastrados">
+			<caption>RELAÇÃO DE TERMINAIS SUGERIDOS PARA ABASTECIMENTO EM 15/09/2016</caption>
+			<thead>
+				<tr>
+					<th scope="col" style="width: 350px;">Ponto</th>
+					<th scope="col" style="width: 70px;">Nro. TAA</th>
+					<th scope="col" style="width: 30px;">Obs.</td>
+					<th scope="col" style="width: 70px;">Hor&aacute;rio</th>
+					<th scope="col" style="width: 70px;">Padr&atilde;o</th>
+					<th scope="col" style="width: 80px;">Valor</th>
+					<th scope="col" style="width: 90px;">Saldo atual</th>
+					<th scope="col" style="width: 70px;">Saque</th>
+					<th scope="col" style="width: 110px;">Saldo Final em D</th>
+					<th scope="col" style="width: 120px;">Previs&atilde;o de saque</th>
+				</tr>
+			</thead>	
+			<tfoot>
+				<tr>
+					<th colspan="5">&nbsp;</th>
+					<th colspan="4" class="alinhaDireita">Quantidade de terminais sugeridos</th>
+					<th class="campoMoeda">20.000</th>
+				</tr>
+			</tfoot>
+			<tbody>
+				<tr>
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/add-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr class="odd">
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/add-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr>
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/add-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr class="odd">
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/add-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr>
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/edit-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr class="odd">
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/edit-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr>
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/edit-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr class="odd">
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/edit-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr>
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/edit-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				<tr class="odd">
+					<td class="destacado"><input type="checkbox" id="codPonto" value="1" />&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing volutpat.</td>
+					<td class="nroTAA">99999</td>
+					<td class="observacao"><img src="img/edit-comentario.png" /></td>
+					<td class="centralizado">
+						<select name="horario">
+							<option value="0">07/09</option>
+							<option value="1">07/09</option>
+							<option value="2">07/09</option>
+							<option value="3">07/09</option>
+							<option value="4">07/09</option>
+						</select>
+					</td>
+					<td class="centralizado">
+						<select name="padrao">
+							<option value="0">Outro</option>
+							<option value="1">Vale</option>
+							<option value="2">Normal</option>
+							<option value="3">Pico</option>
+						</select>
+					</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000</td>
+					<td class="campoMoeda">9.000.000 &nbsp;&nbsp;&nbsp;<img src="img/sinaldeMais.gif"/>&nbsp;&nbsp;&nbsp;<img src="img/chart_bar.gif"/></td>
+				</tr>
+				</tbody>
+		</table>
+	</div>
+</div>
+</body>
+</html>
