@@ -5,48 +5,48 @@
             "name": "Foo Fighters",
             "children": [
                 {"name": "This Is a Call", "size": 2000},
-                {"name": "I'll Stick Around", "size": 2000},
-                {"name": "For All the Cows", "size": 2000},
-                {"name": "Big Me", "size": 2000},
-                {"name": "Alone + Easy Target", "size": 2000}
+                {"name": "I'll Stick Around", "size": 1000},
+                {"name": "For All the Cows", "size": 800},
+                {"name": "Big Me", "size": 300},
+                {"name": "Alone + Easy Target", "size": 200}
             ]
         },
         {
             "name": "The Colour and the Shape",
             "children": [
-                {"name": "Monkey Wrench", "size": 2000},
-                {"name": "Everlong", "size": 2000},
-                {"name": "My Hero", "size": 2000},
+                {"name": "Monkey Wrench", "size": 750},
+                {"name": "Everlong", "size": 3000},
+                {"name": "My Hero", "size": 600},
                 {"name": "Walking after you", "size": 2000}
             ]
         },
         {
             "name": "There Is Nothing Left to Lose",
             "children": [
-                {"name": "Learn to Fly", "size": 2000},
-                {"name": "Stacked Actors", "size": 2000},
-                {"name": "Generator", "size": 2000},
-                {"name": "Breakout", "size": 2000},
-                {"name": "Next Year", "size": 2000}
+                {"name": "Learn to Fly", "size": 1000},
+                {"name": "Stacked Actors", "size": 400},
+                {"name": "Generator", "size": 200},
+                {"name": "Breakout", "size": 100},
+                {"name": "Next Year", "size": 80}
             ]
         },
         {
             "name": "One by One",
             "children": [
-                {"name": "All My Life", "size": 2000},
-                {"name": "Times Like These", "size": 2000},
-                {"name": "Low", "size": 2000},
-                {"name": "Have it All", "size": 2000},
-                {"name": "Next Year", "size": 2000}
+                {"name": "All My Life", "size": 400},
+                {"name": "Times Like These", "size": 200},
+                {"name": "Low", "size": 100},
+                {"name": "Have it All", "size": 80},
+                {"name": "Next Year", "size": 500}
             ]
         },
         {
             "name": "In Your Honor",
             "children": [
-                {"name": "Best of Yoy", "size": 2000},
-                {"name": "DOA", "size": 2000},
-                {"name": "No Way Back/Cold Day in the Sun", "size": 2000},
-                {"name": "Miracle", "size": 2000}
+                {"name": "Best of Yoy", "size": 300},
+                {"name": "DOA", "size": 1500},
+                {"name": "No Way Back/Cold Day in the Sun", "size": 950},
+                {"name": "Miracle", "size": 300}
             ]
         }
    ]
