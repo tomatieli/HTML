@@ -5,7 +5,7 @@
             "name": "Foo Fighters",
             "children": [
                 {"name": "This Is a Call", "size": 2000},
-                {"name": "I'll Stick Around", "size": 1000},
+                {"name": "I'll Stick Around", "size": 1200},
                 {"name": "For All the Cows", "size": 800},
                 {"name": "Big Me", "size": 300},
                 {"name": "Alone + Easy Target", "size": 200}
