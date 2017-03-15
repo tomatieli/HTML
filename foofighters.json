@@ -2,52 +2,191 @@
     "name": "Foo Fighters",
     "children": [
         {
-            "name": "Foo Fighters",
+            "name": "Foo Fighters (1995)",
             "children": [
-                {"name": "This Is a Call", "size": 2000},
-                {"name": "I'll Stick Around", "size": 1200},
-                {"name": "For All the Cows", "size": 800},
+                {"name": "This Is A Call", "size": 300},
+                {"name": "I'll Stick Around", "size": 300},
                 {"name": "Big Me", "size": 300},
-                {"name": "Alone + Easy Target", "size": 200}
+                {"name": "Alone + Easy Target", "size": 300},
+                {"name": "Good Grief", "size": 300},
+                {"name": "Floaty", "size": 300},
+                {"name": "Weenie Beenie", "size": 300},
+                {"name": "Oh, George", "size": 300},
+                {"name": "For All The Cows", "size": 300},
+                {"name": "X-Static", "size": 300},
+                {"name": "Wattershed", "size": 300},
+                {"name": "Exhausted", "size": 300},
+                {"name": "Winnebago[Japanese Bonus Track]", "size": 300},
+                {"name": "Podunk[Japanese Bonus Track]", "size": 300},
+                {"name": "How I Miss You[Special Oz Tour Edition Bonus Track]", "size": 300},
+                {"name": "Ozone[Special Oz Tour Edition Bonus Track]", "size": 300}
             ]
         },
         {
-            "name": "The Colour and the Shape",
+            "name": "The Colour And The Shape (1997)",
             "children": [
-                {"name": "Monkey Wrench", "size": 750},
-                {"name": "Everlong", "size": 3000},
-                {"name": "My Hero", "size": 600},
-                {"name": "Walking after you", "size": 2000}
+                {"name": "Doll", "size": 300},
+                {"name": "Monkey Wrench", "size": 300},
+                {"name": "Hey, Johnny Park!", "size": 300},
+                {"name": "My Poor Brain", "size": 300},
+                {"name": "Wind Up", "size": 300},
+                {"name": "Up In Arms", "size": 300},
+                {"name": "My Hero", "size": 300},
+                {"name": "See You", "size": 300},
+                {"name": "Enough Space", "size": 300},
+                {"name": "February Stars", "size": 300},
+                {"name": "Everlong", "size": 300},
+                {"name": "Walking After You", "size": 300},
+                {"name": "New Way Home", "size": 300},
+                {"name": "Requiem[Bonus Track]", "size": 300},
+                {"name": "Drive Me Wild[Bonus Track]", "size": 300},
+                {"name": "Down In The Park[Bonus Track]", "size": 300},
+                {"name": "Baker Street[Bonus Track]", "size": 300},
+                {"name": "Dear Lover[Bonus Track]", "size": 300},
+                {"name": "The Colour And The Shape[Bonus Track]", "size": 300}
+
             ]
         },
         {
-            "name": "There Is Nothing Left to Lose",
+            "name": "There Is Nothing Left To Lose (1999)",
             "children": [
-                {"name": "Learn to Fly", "size": 1000},
-                {"name": "Stacked Actors", "size": 400},
-                {"name": "Generator", "size": 200},
-                {"name": "Breakout", "size": 100},
-                {"name": "Next Year", "size": 80}
+                {"name": "Stacked Actors", "size": 300},
+                {"name": "Breakout", "size": 300},
+                {"name": "Learn To Fly", "size": 300},
+                {"name": "Gimmie Stitches", "size": 300},
+                {"name": "Generator", "size": 300},
+                {"name": "Aurora", "size": 300},
+                {"name": "Live-In Skin", "size": 300},
+                {"name": "Next Year", "size": 300},
+                {"name": "Headwires", "size": 300},
+                {"name": "Ain't It The Life", "size": 300},
+                {"name": "MIA", "size": 300},
+                {"name": "Fraternity[Australian/Japanese mini LP Bonus Track]", "size": 300}
+				
             ]
         },
         {
-            "name": "One by One",
+            "name": "One By One (2002)",
             "children": [
-                {"name": "All My Life", "size": 400},
-                {"name": "Times Like These", "size": 200},
-                {"name": "Low", "size": 100},
-                {"name": "Have it All", "size": 80},
-                {"name": "Next Year", "size": 500}
+                {"name": "All My Life", "size": 300},
+                {"name": "Low", "size": 300},
+                {"name": "Have It All", "size": 300},
+                {"name": "Times Like These", "size": 300},
+                {"name": "Disenchanted Lullabye", "size": 300},
+                {"name": "Tired Of You", "size": 300},
+                {"name": "Halo", "size": 300},
+                {"name": "Lonely As You", "size": 300},
+                {"name": "Overdrive", "size": 300},
+                {"name": "Burn Away", "size": 300},
+                {"name": "Comeback", "size": 300},
+                {"name": "Walking A Line[Special Limited Edition Bonus Track]", "size": 300},
+                {"name": "Sister Europe[Special Limited Edition Bonus Track]", "size": 300},
+                {"name": "Danny Says[Special Limited Edition Bonus Track]", "size": 300},
+                {"name": "Life Of Illusion[Special Limited Edition Bonus Track]", "size": 300}
             ]
         },
         {
-            "name": "In Your Honor",
+            "name": "In Your Honor (2005)",
             "children": [
-                {"name": "Best of Yoy", "size": 300},
-                {"name": "DOA", "size": 1500},
-                {"name": "No Way Back/Cold Day in the Sun", "size": 950},
-                {"name": "Miracle", "size": 300}
+                {"name": "In Your Honor", "size": 300},
+                {"name": "No Way Back", "size": 300},
+                {"name": "Best Of You", "size": 300},
+                {"name": "DOA", "size": 300},
+                {"name": "Hell", "size": 300},
+                {"name": "The Last Song", "size": 300},
+                {"name": "Free Me", "size": 300},
+                {"name": "Resolve", "size": 300},
+                {"name": "The Deepest Blues Are Black", "size": 300},
+                {"name": "End Over End", "size": 300},
+                {"name": "Still", "size": 300},
+                {"name": "What If I Do?", "size": 300},
+                {"name": "Miracle", "size": 300},
+                {"name": "Another Round", "size": 300},
+                {"name": "Friend Of A Friend", "size": 300},
+                {"name": "Over And Out", "size": 300},
+                {"name": "On The Mend", "size": 300},
+                {"name": "Virginia Moon", "size": 300},
+                {"name": "Cold Day In The Sun", "size": 300},
+                {"name": "Razor", "size": 300},
+                {"name": "The Sign[UK/Vinyl/iTunes Bonus Track]", "size": 300}
+				
             ]
-        }
-   ]
+        },
+        {
+            "name": "Echoes, Silence, Patience & Grace (2007)",
+            "children": [
+                {"name": "The Pretender", "size": 300},
+                {"name": "Let It Die", "size": 300},
+                {"name": "Erase / Replace", "size": 300},
+                {"name": "Long Road To Ruin", "size": 300},
+                {"name": "Come Alive", "size": 300},
+                {"name": "Stranger Things Have Happened", "size": 300},
+                {"name": "Cheer Up, Boys (Your Make-Up Is Running)", "size": 300},
+                {"name": "Summer's End", "size": 300},
+                {"name": "Statues", "size": 300},
+                {"name": "But, Honestly", "size": 300},
+                {"name": "Home", "size": 300},
+                {"name": "Once & For All[Japanese Bonus Track]", "size": 300},
+                {"name": "Seda[Japanese Bonus Track]", "size": 300}
+			]
+
+        },
+        {
+            "name": "Wasting Light (2011)",
+            "children": [
+                {"name": "Bridge Burning", "size": 300},
+                {"name": "Rope", "size": 300},
+                {"name": "Dear Rosemary", "size": 300},
+                {"name": "White Limo", "size": 300},
+                {"name": "Arlandria", "size": 300},
+                {"name": "These Days", "size": 300},
+                {"name": "Back & Forth", "size": 300},
+                {"name": "A Matter Of Time", "size": 300},
+                {"name": "Miss The Misery", "size": 300},
+                {"name": "I Should Have Known", "size": 300},
+                {"name": "Walk", "size": 300},
+                {"name": "Better Off[Japanese Bonus Track]", "size": 300}
+			]
+		},
+        {
+            "name": "Medium Rare (2011)",
+            "children": [
+                {"name": "Band On The Run", "size": 300},
+                {"name": "I Feel Free", "size": 300},
+                {"name": "Life Of Illusion", "size": 300},
+                {"name": "Young Man Blues", "size": 300},
+                {"name": "Bad Reputation", "size": 300},
+                {"name": "Darling Nikki", "size": 300},
+                {"name": "Down In The Park", "size": 300},
+                {"name": "Baker Street", "size": 300},
+                {"name": "Danny Says", "size": 300},
+                {"name": "Have A Cigar", "size": 300},
+                {"name": "Never Talking To You Again", "size": 300},
+                {"name": "Gas Chamber", "size": 300},
+                {"name": "This Will Be Our Year", "size": 300}
+			]
+		},
+        {
+            "name": "Sonic Highways (2014)",
+            "children": [
+                {"name": "Something From Nothing", "size": 300},
+                {"name": "The Feast And The Famine", "size": 300},
+                {"name": "Congregation", "size": 300},
+                {"name": "What Did I Do? / God As My Witness", "size": 300},
+                {"name": "Outside", "size": 300},
+                {"name": "In The Clear", "size": 300},
+                {"name": "Subterranean", "size": 300},
+                {"name": "I Am A River", "size": 300}
+			]
+		},
+        {
+            "name": "Songs From The Laundry Room (2015)",
+            "children": [
+                {"name": "Alone + Easy Target", "size": 300},
+                {"name": "Big Me", "size": 300},
+                {"name": "Kids In America", "size": 300},
+                {"name": "Empty Handed", "size": 300}
+			]
+		}
+	]
 }
