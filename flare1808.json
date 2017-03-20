@@ -1,0 +1,1808 @@
+[
+  {
+    "name": "Perspectiva 0",
+    "size": 0,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspectiva 1",
+    "size": 1,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspectiva 2",
+    "size": 2,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspectiva 3",
+    "size": 3,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspectiva 4",
+    "size": 4,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspectiva 5",
+    "size": 5,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perspectiva 6",
+    "size": 6,
+    "children": [
+      {
+        "name": "Grupo 0",
+        "size": 0,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 1",
+        "size": 1,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Grupo 2",
+        "size": 2,
+        "children": [
+          {
+            "name": "Subgrupo 0",
+            "size": 0,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 1",
+            "size": 1,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          },
+          {
+            "name": "Subgrupo 2",
+            "size": 2,
+            "children": [
+              {
+                "name": "Componente 0",
+                "size": 0
+              },
+              {
+                "name": "Componente 1",
+                "size": 1
+              },
+              {
+                "name": "Componente 2",
+                "size": 2
+              },
+              {
+                "name": "Componente 3",
+                "size": 3
+              },
+              {
+                "name": "Componente 4",
+                "size": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
